@@ -24,3 +24,8 @@ soon ~
 [![NOICE](https://github-readme-stats.vercel.app/api/top-langs/?username=BtwShivaMishra&layout=compact&theme=midnight-purple&hide=Css)](https://github.com/BtwShivaMishra)
 
 ![](https://visitor-badge.laobi.icu/badge?page_id=BtwShivaMishra)
+
+### I'ᴍ ʜᴇʀᴇ 
+[![Github](https://img.shields.io/badge/-Github-181717?style=for-the-badge&logo=Github&logoColor=white)](https://github.com/BtwShivaMishra)
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://telegram.me/BtwShivaMishra)
+[![Instagram](https://img.shields.io/badge/Instagram-2CA5E0?style=for-the-badge&logo=Instagram&logoColor=orange)](https://instagram.com/BtwShivaMishra)
