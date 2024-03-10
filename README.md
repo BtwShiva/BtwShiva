@@ -20,12 +20,12 @@ soon ~
 
 ### Mʏ Gɪᴛʜᴜʙ Sᴛᴀᴛs
 
-[<img src="https://github-readme-stats.vercel.app/api?username=BtwShivaMishra&count_private=true&show_icons=true&theme=chartreuse-dark&custom_title=What%27s+the+craic?&include_all_commits=true&hide_border=true&bg_color=000000" width="100%">](https://github.com/BtwShivaMishra)  [<img src="https://github-readme-streak-stats.herokuapp.com/?user=BtwShivaMishra&theme=chartreuse-dark&hide_border=True&bg_color=000000" width="100%">](https://github.com/BtwShivaMishra)
+[<img src="https://github-readme-stats.vercel.app/api?username=BtwShiva&count_private=true&show_icons=true&theme=chartreuse-dark&custom_title=What%27s+the+craic?&include_all_commits=true&hide_border=true&bg_color=000000" width="100%">](https://github.com/BtwShiva)  [<img src="https://github-readme-streak-stats.herokuapp.com/?user=BtwShiva&theme=chartreuse-dark&hide_border=True&bg_color=000000" width="100%">](https://github.com/BtwShiva)
 
-[![NOICE](https://github-readme-stats.vercel.app/api/top-langs/?username=BtwShivaMishra&layout=compact&theme=midnight-purple&hide=Css)](https://github.com/BtwShivaMishra)
+[![NOICE](https://github-readme-stats.vercel.app/api/top-langs/?username=BtwShiva&layout=compact&theme=midnight-purple&hide=Css)](https://github.com/BtwShiva)
 
-![](https://visitor-badge.laobi.icu/badge?page_id=BtwShivaMishra)
+![](https://visitor-badge.laobi.icu/badge?page_id=BtwShiva)
 
 ### I'ᴍ ʜᴇʀᴇ 
-[![Github](https://img.shields.io/badge/-Github-181717?style=for-the-badge&logo=Github&logoColor=white)](https://github.com/BtwShivaMishra)
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://telegram.me/BtwShivaMishra)
+[![Github](https://img.shields.io/badge/-Github-181717?style=for-the-badge&logo=Github&logoColor=white)](https://github.com/BtwShiva)
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://telegram.me/BtwShiva)
